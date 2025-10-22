@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Shayaan 👋
 
-<!--
-**TheDuck7702/TheDuck7702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm Shayaan, a passionate and curious engineer based in **Waterloo, Ontario**. I love turning ideas into real things. I combine logic and creativity to build clean, efficient, and eco-centered solutions.  
 
-Here are some ideas to get you started:
+**Passions/Hobbies:**  
+- **Photography:** I enjoy taking photos of airplanes, family moments, and landscapes. Currently using a Sony A6000, planning to upgrade to Sony Alpha A7II.  
+- **Music:** Listening to a mix of genres including rap, alternative soul, and 2000s RnB. I also play guitar and other band instruments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Projects & Experience
+
+### Nap-Pad
+A custom 60% mechanical keyboard designed in **KiCad**, featuring a sleek layout, a tactile knob, and powered by a **Raspberry Pi Pico**.
+
+### PCB Board Workshop
+Assembled and soldered a custom PCB, gaining hands-on experience with components, tools, and collaborative problem-solving.
+
+### Task-Topper
+Co-developed a custom GPT with a team of four, focused on student support like tutoring, mental health, and academic resources.
+
+---
+
+## Contact Me
+
+- **Website:** [ShayaanShaikh.com](https://theduck7702.github.io/Shayaan_Shaikh_770/)  
+- **Email:** [shais5738@gmail.com](mailto:shais5738@gmail.com)  
+- **Instagram:** [@shayanissleepy](https://www.instagram.com/shayanissleepy/)
+
+---
+
+⭐️ Feel free to follow me and explore my work!
