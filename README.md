@@ -11,11 +11,14 @@ I'm Shayaan, a passionate and curious engineer based in **Waterloo, Ontario**. I
 
 ## Projects & Experience
 
-### Nap-Pad
+### [Nap-Pad](https://github.com/TheDuck7702/Nap_pad)
 A custom 60% mechanical keyboard designed in **KiCad**, featuring a sleek layout, a tactile knob, and powered by a **Raspberry Pi Pico**.
 
-### PCB Board Workshop
+### [Solder - PCB Workshop](https://github.com/TheDuck7702/Nap_pad)
 Assembled and soldered a custom PCB, gaining hands-on experience with components, tools, and collaborative problem-solving.
+
+### [Custom Steamdeck](https://github.com/TheDuck7702/Duck_Pad-Hack-Club7)
+A small, 6 key custom made steamdeck. Made with fusion 360 and KiCad.
 
 ### Task-Topper
 Co-developed a custom GPT with a team of four, focused on student support like tutoring, mental health, and academic resources.
