@@ -20,7 +20,7 @@ Assembled and soldered a custom PCB, gaining hands-on experience with components
 ### [Custom Steamdeck](https://github.com/TheDuck7702/Duck_Pad-Hack-Club7)
 A small, 6 key custom made steamdeck. Made with fusion 360 and KiCad.
 
-### [Tide Simulator](https://github.com/TheDuck7702/Tide_Simulator))
+### [Tide Simulator](https://github.com/TheDuck7702/Tide_Simulator)
 A simulation of tides with customizable controls and use of object orented programing. Made all in prossesing 4.
 
 ### Task-Topper
