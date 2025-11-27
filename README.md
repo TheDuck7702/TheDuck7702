@@ -45,12 +45,6 @@ Co-developed a custom GPT with a team of four, focused on student support like t
 [![](https://visitcount.itsvg.in/api?id=TheDuck7702&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-## Contact Me
-
-- **Website:** [ShayaanShaikh.com](https://theduck7702.github.io/Shayaan_Shaikh_770/)  
-- **Email:** [shais5738@gmail.com](mailto:shais5738@gmail.com)  
-- **Instagram:** [@shayanissleepy](https://www.instagram.com/shayanissleepy/)
-
 ---
 
 ⭐️ Feel free to follow me and explore my work!
