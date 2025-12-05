@@ -23,6 +23,9 @@ A small, 6 key custom made steamdeck. Made with fusion 360 and KiCad.
 ### [Tide Simulator](https://github.com/TheDuck7702/Tide_Simulator)
 A simulation of tides with customizable controls and use of object orented programing. Made all in prossesing 4.
 
+### [Shayaan's Personal Website](https://theduck7702.github.io/Shayaan_Personal_website/)
+A personal website to display the status and current info on my current project, hobbies and extracurriculars. Made with Tailwind css.
+
 ### Task-Topper
 Co-developed a custom GPT with a team of four, focused on student support like tutoring, mental health, and academic resources.
 
