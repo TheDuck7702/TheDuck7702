@@ -5,7 +5,7 @@ I'm Shayaan, a passionate and curious engineer based in **Waterloo, Ontario**. I
 
 **Passions/Hobbies:**  
 - **Photography:** I enjoy taking photos of airplanes, family moments, and landscapes. Currently using a Sony A6000, planning to upgrade to Sony Alpha A7II.  
-- **Music:** Listening to a mix of genres including rap, alternative soul, and 2000s RnB. I also play guitar and other band instruments.
+- **Music:** Listening to a mix of genres including rap, alternative soul, and RnB. I also play guitar and other band instruments.
 
 ---
 
